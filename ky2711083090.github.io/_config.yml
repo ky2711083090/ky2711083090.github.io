@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Your Title
-subtitle: This is hexo theme
-author: Your Name
+title: Live My Life
+subtitle: 淡而无味也是一种味道
+author: yukun
 timezone:
 
 # Internationalization (i18n) Setting
@@ -22,7 +22,7 @@ langselect:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite-url      # Note: don't forget to modify the CNAME file to your url
+url: http://daokun.top      # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :lang/:title/
 permalink_defaults:
@@ -379,6 +379,7 @@ gitter:
 ## Docs: https://hexo.io/docs/deployment.html
 ##
 deploy:
-  type: git
-  repo: https://github.com/<yourAccount>/<repo> # or https://gitee.com/<yourAccount>/<repo>
-  branch: <your-branch>
+  rtype: git
+  repo: 
+    github: git@github.com:ky2711083090/ky2711083090.github.io.git,master
+    coding: git@e.coding.net:justlearn/justlearn/JustLearn.git,master
