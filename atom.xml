@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>微笑微笑</title>
   
-  <subtitle>生活就是自己过的每一天！！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>生活就是自己度过的每一天！！</subtitle>
+  <link href="http://daokun.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-08-02T11:00:06.735Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://daokun.top/"/>
+  <updated>2021-08-03T02:37:33.252Z</updated>
+  <id>http://daokun.top/</id>
   
   <author>
     <name>禹坤</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新起点新开始</title>
+    <link href="http://daokun.top/2021/08/03/%E6%96%B0%E8%B5%B7%E7%82%B9%E6%96%B0%E5%BC%80%E5%A7%8B/"/>
+    <id>http://daokun.top/2021/08/03/%E6%96%B0%E8%B5%B7%E7%82%B9%E6%96%B0%E5%BC%80%E5%A7%8B/</id>
+    <published>2021-08-03T02:37:33.000Z</published>
+    <updated>2021-08-03T02:37:33.252Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/08/02/hello-world/"/>
-    <id>http://example.com/2021/08/02/hello-world/</id>
+    <link href="http://daokun.top/2021/08/02/hello-world/"/>
+    <id>http://daokun.top/2021/08/02/hello-world/</id>
     <published>2021-08-02T11:00:06.735Z</published>
     <updated>2021-08-02T11:00:06.735Z</updated>
     
@@ -38,8 +51,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://example.com/2021/08/01/test-my-site/"/>
-    <id>http://example.com/2021/08/01/test-my-site/</id>
+    <link href="http://daokun.top/2021/08/01/test-my-site/"/>
+    <id>http://daokun.top/2021/08/01/test-my-site/</id>
     <published>2021-08-01T13:40:46.000Z</published>
     <updated>2021-08-02T11:00:06.736Z</updated>
     
