@@ -2,23 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://daokun.top/about/index-1.html</loc>
+    
+    <lastmod>2021-08-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://daokun.top/tags/index-1.html</loc>
+    
+    <lastmod>2021-08-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://daokun.top/categories/index-1.html</loc>
+    
+    <lastmod>2021-08-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://daokun.top/archives/index.html</loc>
+    
+    <lastmod>2021-08-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://daokun.top/tags/index.html</loc>
     
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-08-03</lastmod>
     
   </url>
   
   <url>
     <loc>http://daokun.top/categories/index.html</loc>
     
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-08-03</lastmod>
     
   </url>
   
   <url>
     <loc>http://daokun.top/404.html</loc>
     
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-08-03</lastmod>
     
   </url>
   
@@ -53,7 +81,7 @@
 
   <url>
     <loc>http://daokun.top/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,7 +89,7 @@
   
   <url>
     <loc>http://daokun.top/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,7 +98,7 @@
   
   <url>
     <loc>http://daokun.top/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

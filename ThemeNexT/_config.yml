@@ -198,9 +198,9 @@ post_asset_folder: true
 relative_link: true
 future: true
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: true
+  enable: false
+  line_number: false
+  auto_detect: false
   tab_replace:
   wrap: true
   hljs: false
@@ -365,7 +365,8 @@ search:
 # Theme config
 ## Themes: https://hexo.io/themes/
 ##
-theme: next
+#theme: next\
+theme: snark
 
 
 # Gitter
